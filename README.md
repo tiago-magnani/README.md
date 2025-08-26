@@ -1,4 +1,3 @@
-# README.md
 # Hi, I'm Tiago 👋
 
 🎓 **Computer Science Student** at Cruzeiro do Sul Virtual  
